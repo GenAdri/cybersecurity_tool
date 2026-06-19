@@ -13,8 +13,8 @@ This repository features a collection of utilities and scripts designed for proa
 - Threat Monitoring: Continuous oversight of security events.
 
 ## Branching Model
-- main: Houses stable, production-tested code.
+- main: The primary production branch. 
 
-- development: The primary hub for ongoing integration and testing.
+- development: The branch where ongoing development takes place. 
 
-- feature/*: Isolated branches dedicated to building specific enhancements.
+- feature/*: Branches for individual features (e.g., feature/log-analysis, feature/vulnerability-scan). 
